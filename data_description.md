@@ -74,11 +74,11 @@ There is the data attributes information: https://www.seattle.gov/Documents/Depa
 ### 2.4 target or label
 
 The target or label column is SEVERITYCODE, this is a code that corresponds to the severity of the collision:
-• 3—fatality
-• 2b—serious injury
-• 2—injury
-• 1—prop damage
-• 0—unknown
+* 3—fatality
+* 2b—serious injury
+* 2—injury
+* 1—prop damage
+* 0—unknown
 
 The distribution of SEVERITYCODE is as below:
 
