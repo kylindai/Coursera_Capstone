@@ -3,7 +3,7 @@
 ## 2. Data description
 
 ### 2.1 data source
-We get the data of collisions from the government website of The Seattle City, updated at October 3, 2020 
+We get the data of collisions from the government website of The Seattle City, updated at October 3, 2020   
 https://data.seattle.gov/Land-Base/Collisions/9kas-rb8d
 
 ### 2.2 dataset summary
