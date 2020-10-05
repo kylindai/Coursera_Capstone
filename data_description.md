@@ -1,4 +1,4 @@
-# City accident severity prediction
+# City Accident Severity Prediction
 
 ## 2. Data description
 
